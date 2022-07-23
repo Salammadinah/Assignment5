@@ -1,0 +1,11 @@
+.space-bottom{
+    margin-bottom: 20px;
+}
+button{
+    color: white;
+    background-color:#1A4D2E;
+    border-color: #1A4D2E;
+}
+body{
+    width: 50%;
+}
